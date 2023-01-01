@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/black white/menu.unity
+    guid: ecebc987e8911a04abfbf12e3375e23b
+  - enabled: 1
+    path: Assets/black white/vidoe.unity
+    guid: fcf5cd9915b8f2742bfd9ea23c3c7404
+  - enabled: 1
+    path: Assets/New Folder/new 1.unity
+    guid: 4bbc56e6fc80e054a92998c348dee300
+  - enabled: 1
+    path: Assets/black white/New Scene.unity
+    guid: bf9b38d843895274188b2889fe21a490
+  m_configObjects: {}
